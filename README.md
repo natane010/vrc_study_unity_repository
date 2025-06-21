@@ -9,3 +9,12 @@ NewProjectを押して新しいプロジェクトを作成して下さい
 右側の欄にあるProjectNameは好きな名前を付けてください（判別がつくもので）
 Locationはどこにフォルダを作るかなので、開いているわかりやすい場所にしてください
 右下の青いボタンを押してUnityが起動したら成功！
+
+## この参考プロジェクトの開き方
+Download　Zipでダウンロードする
+![image](https://github.com/user-attachments/assets/c6292397-223d-469a-9dac-1556e21eac42)
+ダウンロードしたZipを一度展開
+UnityHubでAddボタンを押して展開したファイルを選択
+![image](https://github.com/user-attachments/assets/5ee62105-505c-46d5-8e27-c3ee25069c92)
+![image](https://github.com/user-attachments/assets/46069d79-6b65-40e5-8897-63dde5b2611b)
+追加されたものをクリックして開く
